@@ -6,7 +6,6 @@ import api from '../../services/api'
 
 import './styles.css';
 
-
 import LogoImg from '../../assets/Logo.svg';
 import HeroesImg from '../../assets/Heroes.png';
 
