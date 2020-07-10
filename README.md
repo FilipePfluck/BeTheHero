@@ -8,10 +8,10 @@ O propósito do projeto é ajudar ONGs a encontrar seus heróis, conectando elas
 
 ## Tecnologias usadas 
 
-*Javascript
-*Node
-*React
-*React Native 
+* Javascript
+* Node
+* React
+* React Native 
 
 ## Versão WEB 
 
