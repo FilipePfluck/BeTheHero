@@ -1,7 +1,17 @@
 # BeTheHero
-Projeto desenvolvido durante a semana omnistack 11
+Ajuda ONGs a encontrarem heróis para solucionarem seus casos. 
 
-O projeto conecta ONGs às pessoas interessadas em ajudá-las financeiramente. 
-A aplicação Web, destinada às ONGs, permite que elas criem "casos", contendo um título, descrição e valor.
-A aplicação Mobile é destinada aos usuários, e exibe uma lista com todos os casos e suas informações. 
-O usuário pode entrar em contato com a ONG via whatsapp ou email. 
+## Introdução
+
+O BeTheHero foi produzido durante a semana omnistack 11, evento proporcionado pela rocketseat.
+O propósito do projeto é ajudar ONGs a encontrar seus heróis, conectando elas à pessoas dispostas a financiar casos. 
+
+## Versão WEB 
+
+A versão web é destinada as ONGs.
+É possível cadastrar a ONG na plataforma, inserindo informações necessárias como o nome, cidade e meios de contato. 
+O acesso é feito através de um ID recebido durante o cadastro.
+Na página inicial, é possível ver seus casos cadastrados e cadastrar um novo caso. 
+Os casos cadastrados aparecerâo no aplicativo mobile destinado aos usuários, e eles poderão entrar em contato com você para financiar os problemas!
+
+![teste](https://media-exp1.licdn.com/dms/image/C4D12AQFTHGbf0uRYvQ/article-inline_image-shrink_1000_1488/0?e=1599696000&v=beta&t=9SUz1op_VFdcwsDYq2DHYOUtMpDVPvWQTYF0yMTl9KA)
