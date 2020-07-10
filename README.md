@@ -6,6 +6,13 @@ Ajuda ONGs a encontrarem heróis para solucionarem seus casos.
 O BeTheHero foi produzido durante a semana omnistack 11, evento proporcionado pela rocketseat.
 O propósito do projeto é ajudar ONGs a encontrar seus heróis, conectando elas à pessoas dispostas a financiar casos. 
 
+## Tecnologias usadas 
+
+Javascript
+Node
+React
+React Native 
+
 ## Versão WEB 
 
 A versão web é destinada as ONGs.
@@ -28,10 +35,3 @@ O aplicativo exibe uma lista de todos os casos cadastrados, em um scroll infinit
 
 ![lista de casos](https://media-exp1.licdn.com/dms/image/C4D12AQE3FcoqOpcWXQ/article-inline_image-shrink_1500_2232/0?e=1599696000&v=beta&t=HrxRJv__TEYH6Vg597uvtGNNCXx0nDfXf0nB8lhO9AA)
 ![informações do caso](https://media-exp1.licdn.com/dms/image/C4D12AQE3FcoqOpcWXQ/article-inline_image-shrink_1500_2232/0?e=1599696000&v=beta&t=HrxRJv__TEYH6Vg597uvtGNNCXx0nDfXf0nB8lhO9AA)
-
-## Tecnologias usadas 
-
-Javascript
-Node
-React
-React Native 
